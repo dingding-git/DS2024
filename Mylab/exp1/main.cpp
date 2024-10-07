@@ -2,7 +2,7 @@
 
 #include <cmath>
 
-#include "D:\DS2024\vector\vector.h"
+#include "../Mylab/vector.h"
 
 #include <chrono>
 
